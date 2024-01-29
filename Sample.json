@@ -1,0 +1,1111 @@
+{
+"status": "ok",
+"totalResults": 85,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Juli Clover",
+"title": "Netflix Not Developing App for Vision Pro Because Headset is 'Subscale' and 'Not Relevant' to Subscribers",
+"description": "When the Vision Pro launches, it will not feature some popular apps like Netflix, YouTube, or Spotify, with users instead relegated to accessing these services through the Safari web browser on the device.\n\n\n\n\n\nIn an interview with Stratechery, Netflix co-CEO…",
+"url": "https://www.macrumors.com/2024/01/26/netflix-vision-pro-not-relevant/",
+"urlToImage": "https://images.macrumors.com/t/ify4AxIFM_qh9x8VTd9cYubmQi0=/2250x/article-new/2023/02/Netflix-Smaller-4.jpg",
+"publishedAt": "2024-01-27T00:27:00Z",
+"content": "When the Vision Pro launches, it will not feature some popular apps like Netflix, YouTube, or Spotify, with users instead relegated to accessing these services through the Safari web browser on the d… [+2273 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Juli Clover",
+"title": "Apple Savings Account Interest Rate Increases to 4.50% APY",
+"description": "Apple is sending out push notifications to Apple Savings account holders letting them know about yet another rate increase. The Apple Card Savings Account APY is now at 4.50%, up from 4.35%.\n\n\n\n\n\nThis is the third APY rate increase the ‌Apple Card‌ Savings Ac…",
+"url": "https://www.macrumors.com/2024/01/26/apple-savings-account-apy-increase/",
+"urlToImage": "https://images.macrumors.com/t/nsCc2AsjkIVI5SRKJ1RxdLl7NFk=/2500x/article-new/2023/04/apple-card-savings-account-16x9.jpg",
+"publishedAt": "2024-01-27T03:11:54Z",
+"content": "Apple is sending out push notifications to Apple Savings account holders letting them know about yet another rate increase. The Apple Card Savings Account APY is now at 4.50%, up from 4.35%.\r\nThis is… [+809 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "msmash",
+"title": "Apple's Large Language Model Shows Up in New iOS Code",
+"description": "An anonymous reader shares a report: Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that Apple is continuing to work on a new version of Siri powered…",
+"url": "https://apple.slashdot.org/story/24/01/26/2344206/apples-large-language-model-shows-up-in-new-ios-code",
+"urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+"publishedAt": "2024-01-27T00:32:00Z",
+"content": "Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that Apple is continuing to work on a new … [+1353 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Open-web-advocacy.org"
+},
+"author": null,
+"title": "Apple's plan to allow browser competition dubbed unworkable",
+"description": "Comments",
+"url": "https://open-web-advocacy.org/blog/apple-dma-changes/",
+"urlToImage": "https://open-web-advocacy.org/images/logo-192.png",
+"publishedAt": "2024-01-27T00:49:23Z",
+"content": "The #AppleBrowserBan Ends in the EU!\r\nAfter 3 years of campaigning by @OpenWebAdvocacy and in a victory for developers and consumers, Apple has been forced to allow third-party browsers in the EU.\r\nT… [+2215 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Chance Miller",
+"title": "PSA: The App Store is currently down for many users",
+"description": "If you’re having trouble accessing the App Store on your iPhone or iPad, you’re not alone. The App Store seems to be experiencing an outage, based on complaints from affected users on social media.\n\n\n\n more…",
+"url": "https://9to5mac.com/2024/01/26/psa-the-app-store-is-currently-down-for-many-users/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/app-store-scam.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-01-27T00:08:36Z",
+"content": "If you’re having trouble accessing the App Store on your iPhone or iPad, you’re not alone. The App Store seems to be experiencing an outage, based on complaints from affected users on social media.\r\n… [+727 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Jeff Benjamin",
+"title": "9to5Mac Overtime: GBA4iOS and Delta developer Riley Testut talks iOS 17.4 changes and alternative app stores",
+"description": "Talented GBA4iOS, AltStore, and Delta emulator developer Riley Testut joins us to provide his insightful thoughts about sideloading, alternative app stores, new iOS 17.4 changes to allow app marketplaces in the EU, emulation, and the future of the App Store. …",
+"url": "https://9to5mac.com/2024/01/26/9to5mac-overtime-005-alternative-app-store-developer-riley-testut-talks-ios-17-4-changes/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/9to5Mac-Overtime-Episode-005-GBA4iOS-and-Delta-developer-Riley-Testut-talks-iOS-17.4-changes-and-alternative-app-stores.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-01-27T02:15:03Z",
+"content": "Talented GBA4iOS, AltStore, and Delta emulator developer Riley Testut joins us to provide his insightful thoughts about sideloading, alternative app stores, new iOS 17.4 changes to allow app marketpl… [+560 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.jp"
+},
+"author": "はらいさん",
+"title": "米国で購入したApple Vision Pro、日本で使うには試練が多そう…",
+"description": "Image:Appleなかなかハードル高めです。発売まで1週間を切ったAppleVisionProですが、最初は米国のみでの販売となるため米国のAppleStoreで購入して日本へ持ち帰る、とお考えの方もいるかもしれません。しかし、AppleVisionProをフルで楽しみたいなら買うのはもう少し我慢したほうが良さそうです。（今のところ）AppleVisionProは米国ユーザー向けにデザインされ",
+"url": "https://www.gizmodo.jp/2024/01/apple-vision-pro-usa-to-japan.html",
+"urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/01/26/vision_pro.jpg?w=1280&h=630&f=jpg",
+"publishedAt": "2024-01-27T02:00:00Z",
+"content": "1Apple Vision ProApple Store\r\nApple Vision Pro\r\nApple Vision ProApple Vision Pro\r\nApple Vision ProSiriApple MusicApple TVApple StoreApple ID\r\nZEISSApple Vision ProApple\r\nApple Vision Pro\r\nSource: App… [+15 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Theregister.com"
+},
+"author": "Thomas Claburn",
+"title": "Apple redecorates its iPhone prison to appease Europe",
+"description": "At least web competition will finally be allowed\nAnalysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for the soul.…",
+"url": "https://www.theregister.com/2024/01/27/apple_europe_dma/",
+"urlToImage": "https://regmedia.co.uk/2021/01/27/eu.jpg",
+"publishedAt": "2024-01-27T01:52:25Z",
+"content": "Analysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for th… [+5741 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Theregister.com"
+},
+"author": "Thomas Claburn",
+"title": "Apple redecorates its iPhone prison to appease Europe",
+"description": "At least web competition will finally be allowed\nAnalysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for the soul.…",
+"url": "https://www.theregister.com/2024/01/27/apple_europe_ios_analysis/",
+"urlToImage": "https://regmedia.co.uk/2024/01/27/shutterstock_steve_jobs.jpg",
+"publishedAt": "2024-01-27T01:52:25Z",
+"content": "Analysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for th… [+5741 chars]"
+},
+{
+"source": {
+"id": "die-zeit",
+"name": "Die Zeit"
+},
+"author": "ZEIT ONLINE: Mobil - Mathias Peer",
+"title": "Digital Markets Act: Spotify bezeichnet Apples App-Store-Pläne als Erpressung",
+"description": "Wegen neuer EU-Regeln will Apple die App-Store-Regeln ändern. Der schwedische Musikstreamingdienst kritisiert die Pläne und hofft auf ein Einschreiten der EU-Kommission.",
+"url": "https://www.zeit.de/digital/mobil/2024-01/digital-markets-act-spotify-apple-app-store",
+"urlToImage": "https://img.zeit.de/digital/mobil/2024-01/digital-markets-act-spotify-apple-app-store-bild/wide__1300x731",
+"publishedAt": "2024-01-27T02:32:22Z",
+"content": "Spotify-Chef Daniel Ek hat Apples Pläne zur Neuordnung des App-Geschäfts wegen neuer EU-Regeln kritisiert. Das Vorhaben sei eine \"totale Farce\" und müsse von der EU-Kommission abgelehnt werden, hieß … [+3950 chars]"
+},
+{
+"source": {
+"id": "die-zeit",
+"name": "Die Zeit"
+},
+"author": "ZEIT ONLINE: News -",
+"title": "Apps: Spotify wettert gegen Apples App-Store-Pläne: «Erpressung»",
+"description": "Hier finden Sie Informationen zu dem Thema „Apps“. Lesen Sie jetzt „Spotify wettert gegen Apples App-Store-Pläne: \"Erpressung\"“.",
+"url": "https://www.zeit.de/news/2024-01/27/spotify-wettert-gegen-apples-app-store-plaene-erpressung",
+"urlToImage": "https://img.zeit.de/news/2024-01/27/spotify-wettert-gegen-apples-app-store-plaene-erpressung-image-group/wide__1300x731",
+"publishedAt": "2024-01-27T03:01:13Z",
+"content": "Spotify-Chef Daniel Ek hat Apples Pläne zur Neuordnung des App-Geschäfts wegen neuer EU-Regeln scharf kritisiert. Das Vorhaben sei eine «totale Farce» und müsse von der EU-Kommission abgelehnt werden… [+3388 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "iMore"
+},
+"author": "sullyphoto64@gmail.com (Terry Sullivan)",
+"title": "Jon Stewart returns to 'The Daily Show' After Apple TV+ Series Cancelation, but not everyone is cheering",
+"description": "After Apple TV+ cancelation, Jon Stewart is back on “The Daily Show”",
+"url": "https://www.imore.com/apple/jon-stewart-returns-to-the-daily-show-after-apple-tv-series-cancelation-but-not-everyone-is-cheering",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/yWKHBqKXrnMTVcbqkJppLh-1200-80.jpg",
+"publishedAt": "2024-01-27T00:10:45Z",
+"content": "Earlier this week, Jon Stewart, American comedian, producer, director, actor, and, most famously, television host, will return to Comedy Central as host of the show. But it’s not a full-time gig: He’… [+2557 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Juli Clover",
+"title": "App Store, Apple Music, and More Experiencing Outage",
+"description": "The App Store, Mac App Store, Apple Music, subscription purchases, and AppleCare on Device are all experiencing an outage, according to Apple's System Status page.\n\n\n\n\n\nApple says that the services have been unavailable for some users since 6:30 p.m. Eastern …",
+"url": "https://www.macrumors.com/2024/01/26/app-store-apple-music-outage-january/",
+"urlToImage": "https://images.macrumors.com/t/G1W_GvuazLnNxpxTW0wCuFpN3iA=/2250x/article-new/2022/01/iOS-App-Store-General-Feature-Sqaure-Complement.jpg",
+"publishedAt": "2024-01-27T00:49:18Z",
+"content": "The App Store, Mac App Store, Apple Music, subscription purchases, and AppleCare on Device are all experiencing an outage, according to Apple's System Status page.\r\nApple says that the services have … [+329 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "MacStories"
+},
+"author": "Federico Viticci",
+"title": "Add Timestamp Links to Apple Podcasts Next",
+"description": "Matthew Cassinelli: Yesterday, Apple began adding transcripts to Apple Podcasts, detailing the change on the Apple Podcast for Creators site and making them available for in iOS 17.4 developer beta 1. This change is a huge win for accessibility, will surely i…",
+"url": "https://www.macstories.net/linked/add-timestamp-links-to-apple-podcasts-next/",
+"urlToImage": "https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png",
+"publishedAt": "2024-01-27T00:32:05Z",
+"content": "Matthew Cassinelli:\r\nYesterday, Apple began adding transcripts to Apple Podcasts, detailing the change on the Apple Podcast for Creators site and making them available for in iOS 17.4 developer beta … [+2459 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Ewan Spence, Senior Contributor, \n Ewan Spence, Senior Contributor\n https://www.forbes.com/sites/ewanspence/",
+"title": "Apple Loop: Disappointing iPhone 16 Leaks, New iPad Air Details, Apple’s App Store Warning",
+"description": "This week’s Apple headlines; leaked iPhone 16 details, iOS 17.3 protections, massive Apple Silicon bugs, new iPad Air details, forty years of the Mac, App Store warnings, a new Apple Store turns up in South Korea, and more...",
+"url": "https://www.forbes.com/sites/ewanspence/2024/01/26/apple-news-headlines-iphone-16-leak-ipad-air-app-store-apple-silicon-bugs-mac-anniversary/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6504c60c0a868126a852ccc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-01-27T00:00:40Z",
+"content": "Taking a look back at another week of news and headlines from Cupertino, this weeks Apple Loop includes leaked iPhone 16 details, iOS 17.3 protections, massive Apple Silicon bugs, new iPad Air detail… [+5762 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Olhardigital.com.br"
+},
+"author": "Kelvin Leão Nunes da Costa",
+"title": "Comfy movies: 10 filmes aconchegantes e confortáveis para assistir nos streamings",
+"description": "De dramas inspiradores a comédias leves: selecionamos para você dez filmes confortáveis de assistir disponíveis online nos streamings!\nO post Comfy movies: 10 filmes aconchegantes e confortáveis para assistir nos streamings apareceu primeiro em Olhar Digital.",
+"url": "https://olhardigital.com.br/2024/01/26/cinema-e-streaming/comfy-movies-10-filmes-aconchegantes-e-confortaveis-para-assistir-nos-streamings/",
+"urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/sisteract--695x500.jpg",
+"publishedAt": "2024-01-27T00:20:00Z",
+"content": "Diante do estresse e dos problemas do dia-a-dia, juntamente com as preocupações com o futuro, nem sempre estamos dispostos a assistir a um filme mais complexo ou intenso nos momentos de lazer. \r\nNess… [+6525 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (lewisquar), lewisquar",
+"title": "Gia nhập cộng đồng iPhone do... nghèo??????",
+"description": "Đây là bài viết mình tham gia vụ review lý do mua iPhone trúng iPhone 14 RED Product của chủ tịt rủ.\n#lydomuaiphone\n \n1: Tổng quan về máy mình\nMình mua iPhone 12 mini màu trắng bản base vào khoảng cuối tháng 8/2021…",
+"url": "https://tinhte.vn/thread/gia-nhap-cong-dong-iphone-do-ngheo.3730056/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/10/8159789_refurb-iphone-12-mini-white-2020.jpeg",
+"publishedAt": "2024-01-27T03:36:55Z",
+"content": "Nu anh em còn nh thì giai on tháng 8/2021 là gia tâm dch ang hi cng thng nht. TP.HCM b lock down toàn b, nhng à Lt lúc ó vn cha b lock down dù cng ã có ri rác 2 3 case him hoi các vùng ven. Nh th mà … [+2805 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Netafull.net"
+},
+"author": "コグレマサト",
+"title": "「Meta Quest」がiPhoneで撮影した空間ビデオを再生できる機能をサポートか",
+"description": "Appleが「iPhone 15 Pro」と「iPhone 15 Pro Max」に導入した空間ビデオキャプチャ機能で撮影したものが「Meta Quest」で再生できる可能性が出てきたようです。 9to5Macが、Met...\n投稿 「Meta Quest」がiPhoneで撮影した空間ビデオを再生できる機能をサポートか は ネタフル に最初に表示されました。",
+"url": "https://netafull.net/vr/0144493.html",
+"urlToImage": "https://netafull.net/wp-content/uploads/2023/10/31ikrjJU4AL._SL500.jpg",
+"publishedAt": "2024-01-27T00:00:00Z",
+"content": "AppleiPhone 15 ProiPhone 15 Pro MaxMeta Quest\r\n9to5MacMeta Quest headsets might soon be able to play spatial videos shot on iPhone without workarounds\r\nApple recently introduced spatial video capture… [+453 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Apple hợp tác với rapper tlinh quay MV bằng iPhone 15 Pro Max",
+"description": "Hiện tại, trên những trang mạng xã hội đang râm rang về một sự kết hợp lần đầu tiên giữa một nghệ sĩ Việt và Apple. Màn kết hợp lần này là việc cho ra mắt MV mới mang tên Đừng làm nó phức tạp của rapper tlinh, MV này sẽ được quay bằng iPhone 15 Pro.",
+"url": "https://tinhte.vn/thread/apple-hop-tac-voi-rapper-tlinh-quay-mv-bang-iphone-15-pro-max.3759393/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/01/8250083_cover-tlinh-apple-mv-tinhte-anhtu.jpeg",
+"publishedAt": "2024-01-27T00:36:17Z",
+"content": "Xài app Blackmagic Camera quay ISO 1250, xài SSD, quay ch Log\r\nCh Cinematic, ch này có t iPhone 13 ri, không có gì áng chú ý\r\n SSD, mi anh em oán brand \r\nChnh sa bng Final Cut Pro trên MacBook\r\nNhng … [+1375 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Apple có thể ra mắt phiên bản Siri mới có tích hợp AI tại WWDC 24",
+"description": "Theo một số tin đồn mới nhất, Apple có thể sẽ giới thiệu một phiên bản Siri hỗ trợ AI vào tháng 6 năm nay. Một số nhà phát triển đã tìm thấy dấu hiệu về sự tồn tại của phiên bản này bên trong phiên bản iOS 17.4 dev beta.\n \nhttps://tinhte.",
+"url": "https://tinhte.vn/thread/apple-co-the-ra-mat-phien-ban-siri-moi-co-tich-hop-ai-tai-wwdc-24.3759536/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/01/8250518_Cover-siri-ai-tinhte-anhtu.jpeg",
+"publishedAt": "2024-01-27T03:07:31Z",
+"content": "Apple có th ang th nghim 4 mô hình AI khác nhau, bao gm AjaxGBT và LLM ni b. i vi AjaxGBT, ngi ta thy rng mô hình này có hai phiên bn: mt phiên bn c s dng cho x lý trên thit b và mt phiên bn c s dng … [+272 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Roomie.jp"
+},
+"author": "ROOMIE編集部",
+"title": "スポーツにも散歩にもぴったりな「AirPodsシリーズ」が最大11％OFF。ノイキャンいらない派なら買い時かもです",
+"description": "2月1日（木）スタートの「Amazonタイムセール祭り」に先駆けて、「タイムセール祭り事前セール」が開催中。事前セールとは言え、ガジェットを中心に結構豪華なラインナップになっています。 欲しいモノがきっと見つかるセール期間中、ROOMIEでは「コレだ！」と思ったモノをピックアップ。 今回は事前セールに出品されたアイテムの中から、Appleの大人気ワイヤレスイヤホン「AirPods」をご紹介します！",
+"url": "https://www.roomie.jp/2024/01/1156590/",
+"urlToImage": "https://media.loom-app.com/roomie/dist/images/2023/09/IMG_0207.jpg?w=1200",
+"publishedAt": "2024-01-27T00:00:30Z",
+"content": "21Amazon\r\nROOMIE\r\nAppleAirPods\r\nApple\r\nAppleAirPods3\r\nAirPods 11%OFF23,800 Apple\r\nType-C7OFFLightningAppleAirPods\r\n1AirPods\r\n212\r\n1\r\nOK\r\n2,00017,600\r\nApple1"
+},
+{
+"source": {
+"id": null,
+"name": "Taisy0.com"
+},
+"author": "taisy0",
+"title": "Appleの｢App Store｣や｢Apple Music｣で障害が発生中 ｰ 全てのユーザーに影響",
+"description": "現在、AppleのApp StoreやApple Musicで障害が発生しています。 影響を受けているのは、App Store、Mac App Store、Apple Music、デバイスのAppleCareで、全てのサービスで機能停止と案",
+"url": "https://taisy0.com/2024/01/27/194451.html",
+"urlToImage": "https://taisy0.com/wp-content/uploads/2024/01/apdown202401.jpg",
+"publishedAt": "2024-01-27T01:02:34Z",
+"content": "AppleApp StoreApple Music\r\nApp StoreMac App StoreApple MusicAppleCare\r\nApp Store\r\nApppe"
+},
+{
+"source": {
+"id": null,
+"name": "Taisy0.com"
+},
+"author": "taisy0",
+"title": "EU域内でのサードパーティ製アプリストアやWebKit以外の代替ブラウザエンジンのサポートは｢iPad｣は対象外",
+"description": "昨日、Appleが欧州連合（EU）が現地時間3月6日に発効させる「デジタル市場法（DMA）」に対応する為、EU域内においてApp Store以外での外でのiOSアプリの提供（サイドローディング）を認めたり、独自のレンダリングエンジンを搭載し",
+"url": "https://taisy0.com/2024/01/27/194456.html",
+"urlToImage": "https://taisy0.com/wp-content/uploads/2024/01/th_Apple-EU-Digital-Markets-Actupdates.jpg",
+"publishedAt": "2024-01-27T02:13:09Z",
+"content": "AppleEU36DMAEUApp StoreiOSWebiPhoneiOSiPad9To5Mac\r\nAppleAppleiPhoneiPad\r\nEU\r\n3iOS 17.4Apple\r\nAppleEUiOSSafariApp Store – Apple"
+},
+{
+"source": {
+"id": null,
+"name": "Unwire.hk"
+},
+"author": "唐美鳳",
+"title": "程式缺席 Apple Vision Pro Netflix CEO 解釋背後原因",
+"description": "自從上星期開始接受預訂以來，分析師郭明錤指 Apple Vision Pro 已售出約 16 萬至 18 萬部。然而，這款標榜高質屏幕體驗的頭戴式空間運算裝置，卻欠缺影片串流平台 Netflix 的專屬程式。Netflix 和 YouTube 的缺席引來了網民的討論，為何 Apple Vision Pro 未能獲得這兩個影視平台支持。\nThe post 程式缺席 Apple Vision Pro Netflix CEO 解釋背後原因 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+"url": "https://unwire.hk/2024/01/27/netflix-ceo-explained-no-apple-vision-pro-app/vr-mr-ar/",
+"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/01/04-26-694x390.png",
+"publishedAt": "2024-01-27T01:00:56Z",
+"content": "Apple Vision Pro 16 18 Netflix Netflix YouTube Apple Vision Pro \r\n Stratechery Netflix Greg Peters Netflix visionOS Apple Vision Pro Apple Vision Pro Netflix Peters \r\n visionOS YouTube Spotify Apple … [+193 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macmagazine.com.br"
+},
+"author": "Luiz Gustavo Ribeiro",
+"title": "Spotify e Mozilla também desaprovam mudanças da Apple na UE",
+"description": "Em soma ao já crescente número de desenvolvedores e empresas que se posicionaram contra as mudanças anunciadas pela Apple com relação à App Store, ao Safari e ao iOS, considere agora o Spotify e a Mozilla entre aqueles que não estão entusiasmados com a forma …",
+"url": "https://macmagazine.com.br/post/2024/01/26/spotify-e-mozilla-tambem-desaprovam-mudancas-da-apple-na-ue/",
+"urlToImage": "https://macmagazine.com.br/wp-content/uploads/2022/03/25-spotify-3-1260x840.jpg",
+"publishedAt": "2024-01-27T00:18:07Z",
+"content": "Em soma ao já crescente número de desenvolvedores e empresas que se posicionaram contra as mudanças anunciadas pela Apple com relação à App Store, ao Safari e ao iOS, considere agora o Spotify e a Mo… [+3727 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Gael Cooper",
+"title": "New Emoji in iOS 17.4 Beta Include a Phoenix, Broken Chain, Nodding Heads and a Lime - CNET",
+"description": "The 118 new options are now available for beta users, and soon should be available to everyone.",
+"url": "https://www.cnet.com/tech/mobile/new-emoji-in-ios-17-4-beta-include-a-phoenix-broken-chain-nodding-heads-and-a-lime/",
+"urlToImage": "https://www.cnet.com/a/img/resize/6f4ee8cb5df6b162352aa8e2f4429d4f1a8fc599/hub/2023/09/18/3938f1ab-a025-4466-8d74-ad854484e787/new-emojis-15-1.png?auto=webp&fit=crop&height=675&width=1200",
+"publishedAt": "2024-01-27T00:26:33Z",
+"content": "Want to text someone a colorful reminder that they should bring home some limes for gin and tonics? Or mushrooms for stroganoff? Or maybe to encourage them they can rise from the ashes, like a phoeni… [+1680 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Technews.tw"
+},
+"author": "遠見雜誌",
+"title": "蘋果、微軟進入「市值三兆美元俱樂部」！他們還能再紅 20 年嗎？",
+"description": "近期微軟（Microsoft）憑藉著 AI 風潮，市值在 24 日正式突破三兆美元，成為繼蘋果（Apple）後，第二家加入「三兆美元俱樂部」的公司。City Index 也觀察 2000 和 2023 年全球企業市值排名，榜首幾乎都由科技公司拿下，顯示其影響力的強大。 繼蘋果（Apple）後，又有一...",
+"url": "https://finance.technews.tw/2024/01/27/market-value-of-apple-and-microsoft/",
+"urlToImage": "https://img.technews.tw/wp-content/uploads/2016/07/05172714/shutterstock_115231372-e1623203916485.jpg",
+"publishedAt": "2024-01-27T03:00:41Z",
+"content": "Microsoft AI 24 AppleCity Index 2000 2023 \r\nAppleAIMicrosoft\r\nLSEG241.7%405.63\r\n2000\r\nCity IndexCiscoIntelNokia2Exxon MobliRoyal Dutch Shell\r\nWindowsOffice20005,860200132,580City Index\r\n20032010\r\n Ex… [+173 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Moneycontrol"
+},
+"author": "Reuters",
+"title": "Weak Intel forecast drags SP 500, ends streak of record highs",
+"description": "The S&amp;P 500 declined 0.07% to end the session at 4,890.97 points. The Nasdaq declined 0.36% to 15,455.36 points, while Dow Jones Industrial Average rose 0.16% to 38,109.43 points.",
+"url": "https://www.moneycontrol.com/news/business/markets/weak-intel-forecast-drags-sp-500-ends-streak-of-record-highs-12132551.html",
+"urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/12/Wall-Street-770x433.jpg",
+"publishedAt": "2024-01-27T03:54:22Z",
+"content": "The S&amp;P 500 ended a five-session streak of record highs on Friday, with Intel, opens new tab slumping after a bleak revenue forecast, while U.S. economic data showed inflation moderating.\r\nEven a… [+2965 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "menshealth.com"
+},
+"author": "Evan Romano",
+"title": "Masters of the Air Is a 9-Episode Historical TV Marvel",
+"description": "Tom Hanks and Steven Spielberg produce, Austin Butler stars, and this spiritual sequel to Band of Brothers and The Pacific is 100% worth your time.",
+"url": "https://www.menshealth.com/entertainment/a46553425/masters-of-the-air-is-a-9-episode-historical-tv-marvel/",
+"urlToImage": "https://hips.hearstapps.com/hmg-prod/images/masters-of-the-air-3-65b3dfeef277b.jpeg?crop=0.728xw:0.647xh;0.179xw,0.0262xh&resize=1200:*",
+"publishedAt": "2024-01-27T00:30:00Z",
+"content": "SOMETIMES, THE INTERESTS of legendary figures within the entertainment industry can be somewhat mysterious. That is not the case for Tom Hanks and Steven Spielberg, who, for more than three decades o… [+2720 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "TmoNews"
+},
+"author": "Christine Canencia",
+"title": "T-Mobile Tuesdays App Update to T Life App Has Begun",
+"description": "At the start of January, it was revealed that T-Mobile will be sunsetting its T-Mobile Tuesdays app. The Un-carrier is moving the program to a new app called T Life, which will be an all-in-one app together with other services like SyncUP and Home Internet.  …",
+"url": "https://www.tmonews.com/2024/01/t-mobile-tuesdays-app-update-to-t-life-app-has-begun/",
+"urlToImage": "https://www.tmonews.com/wp-content/uploads/2024/01/t-life-app-210x131.png",
+"publishedAt": "2024-01-27T03:09:40Z",
+"content": "At the start of January, it was revealed that T-Mobile will be sunsetting its T-Mobile Tuesdays app. The Un-carrier is moving the program to a new app called T Life, which will be an all-in-one app t… [+1174 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NPR"
+},
+"author": "",
+"title": "Rescues at sea, and how to make a fortune",
+"description": "At around 1 a.m. on the morning of November 15, 1994, Captain Prentice \"Skip\" Strong III woke to a distress call. Skip was the new captain of an oil tanker called the Cherry Valley. He and his crew had been making their way up the coast of Florida that evenin…",
+"url": "https://www.npr.org/2024/01/26/1197956698/planet-money-draft-01-26-2024",
+"urlToImage": "https://media.npr.org/assets/img/2024/01/26/pm-episode-art-2-_wide-5fffebe3daa224614c7c5fe1f7c20fe11ae53334-s1400-c100.png",
+"publishedAt": "2024-01-27T01:01:02Z",
+"content": "At around 1 a.m. on the morning of November 15, 1994, Captain Prentice \"Skip\" Strong III woke to a distress call. Skip was the new captain of an oil tanker called the Cherry Valley. He and his crew h… [+1895 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPad 10.2英寸平板电脑 2021款银色 1939元（需用券）",
+"description": "Apple 苹果 iPad 10.2英寸平板电脑 2021款银色 1939元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/103178223/",
+"urlToImage": "https://qny.smzdm.com/202308/30/64ef3e6fde6765358.jpg_d250.jpg",
+"publishedAt": "2024-01-27T00:09:53Z",
+"content": "iPad 100% 10.2 Retina iPad True Tone Retina True Tone iPad 2021 Apple Pecncil \r\niPad A13 20A13 Bionic iPadOS 15 \r\n iPad  iPad Pro Center Stage iPad 12MP Center Stage Center Stage FaceTime iPadCenter … [+8 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPad 10.9英寸 2022款(64GB WLAN版/A14芯片/学习办公娱乐/MPQ03CH/A)银色 2699元（需用券）",
+"description": "Apple 苹果 iPad 10.9英寸 2022款(64GB WLAN版/A14芯片/学习办公娱乐/MPQ03CH/A)银色 2699元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/103178796/",
+"urlToImage": "https://qny.smzdm.com/202210/19/634f643fcc3601371.jpg_d250.jpg",
+"publishedAt": "2024-01-27T00:41:26Z",
+"content": "iPad 2022iPad ProiPad Air10.9Liquid2360*1640264PPI500nit10.9HomeIDIPad 2022LightningUSB-C\r\nA145nm118 20% 10%16A13280%12001200122°12004K240fps\r\n64GB256GBWLAN5GWi-Fi 6iPad 2022Apple PenciliPadOS 16 iPad"
+},
+{
+"source": {
+"id": null,
+"name": "Maketecheasier.com"
+},
+"author": "Ryan Gladwin",
+"title": "Are You Nuts For Wanting Apple’s Vision Pro?",
+"description": "The upcoming Apple Vision Pro promises an unreal XR experience - but also costs a whopping $3,500. Is it going to be worth your money?",
+"url": "https://www.maketecheasier.com/should-you-buy-apple-vision-pro/",
+"urlToImage": "https://www.maketecheasier.com/assets/uploads/2024/01/Apple-Vision-Pro-header-image.jpg",
+"publishedAt": "2024-01-27T01:25:00Z",
+"content": "If you’re considering buying the Apple Vision Pro you’ll have to pony up an eye-watering $3,499 and already own an iPhone or iPad. This makes it five times as expensive as its closest competitor, the… [+14110 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Эксперты нашли следы тестирования ИИ в свежей бета-версии Apple iOS 17.4",
+"description": "В преддверии анонса Apple новых функций ИИ для iOS 18, который, как предполагается, состоится в июне, компания усиливает исследования и разработки в этой области. Проанализировав код свежей бета-версии iOS 17.4, эксперты обнаружили попытки интеграции больших …",
+"url": "https://3dnews.ru/1099387/eksperti-nashli-sledi-testirovaniya-ii-v-svegey-betaversii-ios-174",
+"urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/01/27/1099387/eksperti-nashli-sledi-testirovaniya-ii-v-svegey-betaversii-ios-174-main.jpg",
+"publishedAt": "2024-01-27T03:45:00Z",
+"content": "Apple iOS 18, , , , . - iOS 17.4, Apple iOS, , Messages Siri.\r\n: Apple\r\n- iOS 17.4 SiriSummarization, API ChatGPT, OpenAI. , Apple . , SiriSummarization «, » «, », Siri .\r\nApple Messages. , iMessage,… [+368 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Www.abc.es"
+},
+"author": "(abc)",
+"title": "Probamos el Samsung Galaxy S24 Ultra: una bestia de la IA, pero poco más",
+"description": "La serie de teléfonos Galaxy S de Samsung son la joya de la corona de Android. Se trata del buque insignia de Android al que todos los demás fabricantes miran. Y, dentro de los tres que suelen componer la terna anual, el más importante, grande y potente es el…",
+"url": "https://www.abc.es/tecnologia/probamos-samsung-galaxy-s24-ultra-bestia-ia-20240127162030-nt.html",
+"urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/01/26/galaxy-2-U48370323067SrP-1024x512@abc.jpg",
+"publishedAt": "2024-01-27T03:19:29Z",
+"content": "La serie de teléfonos Galaxy S de Samsung son la joya de la corona de Android. Se trata del buque insignia de Android al que todos los demás fabricantes miran. Y, dentro de los tres que suelen compon… [+81 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nextbigwhat.com"
+},
+"author": "Tom",
+"title": "Apple and Spotify clash over App Store changes",
+"description": "Spotify CEO Daniel Ek criticizes Apple’s proposed changes to its App Store, calling it ‘extortion’ and an ‘unworkable alternative’ for developers. Apple defends its changes, stating they offer developers more…\nThe post Apple and Spotify clash over App Store c…",
+"url": "https://nextbigwhat.com/apple-and-spotify-clash-over-app-store-changes/",
+"urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+"publishedAt": "2024-01-27T01:07:57Z",
+"content": "Subscribe now to keep reading and get access to the full archive.\r\nContinue reading"
+},
+{
+"source": {
+"id": null,
+"name": "Nextbigwhat.com"
+},
+"author": "Tom",
+"title": "Apple’s major AI initiative expected to launch with iOS 18, say analysts",
+"description": "Apple is predicted to make a significant move into AI with the release of iOS 18, having acquired 21 AI startups since 2017. The company is reportedly developing a new…\nThe post Apple’s major AI initiative expected to launch with iOS 18, say analysts appeared…",
+"url": "https://nextbigwhat.com/apples-major-ai-initiative-expected-to-launch-with-ios-18-say-analysts/",
+"urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+"publishedAt": "2024-01-27T01:12:32Z",
+"content": "Subscribe now to keep reading and get access to the full archive.\r\nContinue reading"
+},
+{
+"source": {
+"id": null,
+"name": "Soydemac.com"
+},
+"author": "Andy Acosta",
+"title": "¿Cómo instalar NodoSports en iPhone y en Mac? 2024",
+"description": "¿Cómo instalar NodoSports en iPhone y en Mac? ¿Será posible instalar esta aplicación de formato APK en un teléfono de Apple? No, pero en Mac.",
+"url": "https://www.soydemac.com/como-instalar-nodosports-en-iphone-y-en-mac-2024/",
+"urlToImage": "https://www.soydemac.com/wp-content/uploads/2024/01/NodoSports-el-APK-que-reemplaza-a-NodoFlix-Nodito-y-NodoGO-1.webp",
+"publishedAt": "2024-01-27T01:27:31Z",
+"content": "Para los amantes del deporte, muchas veces es difícil elegir una aplicación que reúna todas sus exigencias y además sea compatible con su teléfono móvil. Una muy popular en la actualidad es NodoSport… [+6404 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Blognone.com"
+},
+"author": "mk",
+"title": "Spotify โจมตีแอปเปิลไม่จริงใจทำตามกฎหมาย DMA ยุโรป, เรียกร้อง EU ให้แก้ปัญหา",
+"description": "Spotify ในฐานะไม้เบื่อไม้เมากับแอปเปิลในเรื่องการจ่ายเงินผ่าน App Store มายาวนาน ออกแถลงการณ์วิจารณ์นโยบายใหม่ของแอปเปิลที่ปฏิบัติตามกฎหมาย DMA ของยุโรป ว่าเป็นการพรางตัว (masquerading) ว่าทำตามกฎหมายแล้วนะ แต่จริงๆ แล้วยังเหมือนเดิมหรือแย่กว่าเดิมด้วยซ้ำ\r\n\nS…",
+"url": "https://www.blognone.com/node/137898",
+"urlToImage": "https://www.blognone.com/sites/default/files/externals/fdf8fc39b419438035ade7c2c7b576c4.jpg",
+"publishedAt": "2024-01-27T03:09:47Z",
+"content": "Creative Commons Attribution 3.0©2004-2022\r\nBlognone.com is owned and operated by Blognone Co., Ltd. (LinkedIn Profile)\r\nBlognone is a subsidiary company of wongnai.com"
+},
+{
+"source": {
+"id": null,
+"name": "Mactrast.com"
+},
+"author": "MacTrast Staff",
+"title": "MacBook Air Giveaway from Mactrast",
+"description": "It’s 2024 and Mactrast is launching its Apple MacBook Air giveaway! Mactrast is giving away the newest MacBook Air M2 absolutely free. The MacBook Air M2 is made of 100% recycled aluminum. It’s fanless, which means it runs completely silent, no matter the num…",
+"url": "https://www.mactrast.com/2024/01/macbook-air-giveaway-from-mactrast/",
+"urlToImage": "https://www.mactrast.com/wp-content/uploads/2024/01/Macbook-Air-M2.jpg",
+"publishedAt": "2024-01-27T00:41:10Z",
+"content": "It’s 2024 and Mactrast has launched a Apple MacBook Air giveaway! Mactrast is giving away the newest MacBook Air M2 absolutely free. The MacBook Air M2 is made of 100% recycled aluminum. It’s fanless… [+2114 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Zacjohnson.com"
+},
+"author": "Disclaimer and DMCA",
+"title": "Is Balsam Hill Going out of Business?",
+"description": "Rumors and speculation about the potential closure of Balsam Hill, the leading provider of premium artificial Christmas trees, have been circulating. However, it is important to separate fact from fiction and examine the current financial health and future pr…",
+"url": "https://zacjohnson.com/is-balsam-hill-going-out-of-business/",
+"urlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/01/is-balsam-hill-going-out-of-business.jpg",
+"publishedAt": "2024-01-27T01:05:40Z",
+"content": "Rumors and speculation about the potential closure of Balsam Hill, the leading provider of premium artificial Christmas trees, have been circulating. However, it is important to separate fact from fi… [+27525 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Zacjohnson.com"
+},
+"author": "Disclaimer and DMCA",
+"title": "Rocko Net Worth – How Much is Rocko Worth?",
+"description": "Rocko, also known as Rodney Ramone Hill Jr., is an American rapper and musician. With a successful career in the music industry, Rocko has managed to accumulate a net worth of approximately $1 million. As we delve into his journey and accomplishments, let’s e…",
+"url": "https://zacjohnson.com/rocko-net-worth-2/",
+"urlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/01/rocko-net-worth-1.jpg",
+"publishedAt": "2024-01-27T02:06:44Z",
+"content": "Rocko, also known as Rodney Ramone Hill Jr., is an American rapper and musician. With a successful career in the music industry, Rocko has managed to accumulate a net worth of approximately $1 millio… [+20903 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Zacjohnson.com"
+},
+"author": "Disclaimer and DMCA",
+"title": "Apollo Peak Wine Cats Dogs – Shark Tank Update",
+"description": "Are you a pet owner looking for a unique and animal-friendly treat for your furry friends? Look no further than Apollo Peak Wine! In this article, we will take a closer look at Apollo Peak, a line of “wines” for cats and dogs that gained popularity after appe…",
+"url": "https://zacjohnson.com/apollo-peak-wine-cats-dogs-shark-tank/",
+"urlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/01/apollo-peak-wine-cats-dogs-shark-tank.jpg",
+"publishedAt": "2024-01-27T00:52:49Z",
+"content": "Are you a pet owner looking for a unique and animal-friendly treat for your furry friends? Look no further than Apollo Peak Wine! In this article, we will take a closer look at Apollo Peak, a line of… [+28610 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Cnbeta.com.tw"
+},
+"author": "ytzong",
+"title": "Apple Card储蓄账户年利率再次上调 增至4.50%",
+"description": "苹果公司正在向苹果储蓄账户持有人发送推送通知，告知他们利率再次上调。Apple Card储蓄账户年利率从 4.35% 提高到了 4.50%。这是Apple Card储蓄账户自 12 月以来第三次上调年利率。第一次上调后，年利率从 4.15% 提高到 4.25%，第二次是在 1 月初，从 4.25% 提高到 4.35%。\r\n\n苹果储蓄账户之前的利率上调使其与美国运通和发现的许多其他流行的高收益储蓄账户的年利率持平，而随着最新利率的上调，苹果储蓄账户也与高盛的年利率持平。自 2023 年 4 月起，美国Apple C…",
+"url": "https://www.cnbeta.com.tw/articles/tech/1414433.htm",
+"urlToImage": "https://static.cnbetacdn.com/article/2024/0127/b4056009972aee0.jpg",
+"publishedAt": "2024-01-27T03:36:40Z",
+"content": "0cnBeta.COM  2024-01-27 11:29:04\r\nApple Card 4.35% 4.50%Apple Card 12 4.15% 4.25% 1 4.25% 4.35%\r\n2023 4 Apple CardGoldman Sachs\r\nApple Card 25"
+},
+{
+"source": {
+"id": null,
+"name": "Cnbeta.com.tw"
+},
+"author": "ytzong",
+"title": "Spotify CEO谈苹果在欧盟的变化：他们认为法律之下可以自搞一套",
+"description": "Spotify 首席执行官丹尼尔-埃克（Daniel EK）今天撰写了一篇博文，批评苹果公司根据《数字市场法案》在欧盟实施的应用程序生态系统变更，指责苹果公司在\"合规和让步的虚假借口\"下提出了\"一个完全是闹剧的新计划\"。埃克说，苹果\"认为规则不适用于他们\"，并且大多数应用开发者都无法采用苹果的新条款。\r\n\n埃克认为，每年每次安装收取 0.50 欧元的核心技术费（安装 100 万次后）是一种\"敲诈\"。再加上通过App Store收取的佣金减少（10-20%，取决于所选选项），热门应用程序的开发者将向苹果公司支付\"与…",
+"url": "https://www.cnbeta.com.tw/articles/tech/1414417.htm",
+"urlToImage": "https://static.cnbetacdn.com/article/2024/0127/7f561466259b8db.jpg",
+"publishedAt": "2024-01-27T03:36:00Z",
+"content": "0.50 100 \"\"App Store10-20%\"\"\r\nSpotify \"\"Spotify 0.50 17% \r\n 1 10 \r\n\"\"\" DMA \"Spotify\"\"Spotify DMA \"\"\r\nEpic Games-Tim SweeneyApp Store \"\"\r\niPhone Epic Games iOS Epic \"\"\r\n99% Apple Pay\r\n Spotify-- iOS 9… [+7 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Cnbeta.com.tw"
+},
+"author": "ytzong",
+"title": "苹果的iOS开放犹如“毒丸”，开发者咽得下去吗？",
+"description": "迫于欧盟的法律压力，苹果公司不情愿地开放了封闭已久的iOS生态，允许开发者通过第三方应用商店向用户提供应用。然而，苹果还留了一招，推出了新式“苹果税”，这让开发者如鲠在喉。\r\n\n对于那些想在第三方商店运营的应用，苹果引入了一种新的收费结构。从表面上看，这似乎很棒：如果应用通过第三方商店进行销售，苹果将不会从中抽取提成。如果开发者仍然希望通过苹果App Store进行推广，那么分成比例将从传统的30%降至17%。对于符合条件的“小企业”应用，抽成从最初的15%降至10%。看起来，这是一笔很划算的买卖。“毒丸”计划但…",
+"url": "https://www.cnbeta.com.tw/articles/tech/1414391.htm",
+"urlToImage": "https://static.cnbetacdn.com/article/2024/0127/44fb4985ae28c48.webp",
+"publishedAt": "2024-01-27T03:05:56Z",
+"content": "App Store30%17%15%10%\r\n100Apple Pay50(3.9)Apple Pay50Apple Pay50100\r\nFacebook(AndroidiOS)4.08iPhoneFacebookiPhoneFacebookMetaApple Pay6750(5.2)FacebookMetaWhatsAppInstagramMessengerMeta\r\nApp Store\r\n1… [+229 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Techweb.com.cn"
+},
+"author": "故渊",
+"title": "已修复 苹果App Store等服务短暂中断：导致无法购买应用",
+"description": "IT之家 1 月 27 日消息，苹果公司系统状态报告今天发布更新，表示今天上午 7 点 29 分开始，App Store、Mac App Store、Apple Music 以及设备上的 AppleCare 服务出现中断情况。Apple Music - 已解决的服务中断今天 上午 7:29 - 上午 8:42所有用户均曾受影响用户在使用此服务时可能遇到过间歇性问题。App Store - 已解决的服务中断今天 上午 7:29 - 上午 8:42所有用户均曾受影响用户可能曾无法在 iTunes 商店、Mac App…",
+"url": "https://www.techweb.com.cn/it/2024-01-27/2940303.shtml",
+"urlToImage": "https://upload1.techweb.com.cn/s/120/imgs/2024/0127/1706319993514.jpg",
+"publishedAt": "2024-01-27T01:47:04Z",
+"content": "IT 1 27 7 29 App StoreMac App StoreApple Music AppleCare \r\nApple Music - \r\n 7:29 - 8:42\r\nApp Store - \r\n 7:29 - 8:42\r\n iTunes Mac App App \r\nMac App Store - \r\n 7:29 - 8:42\r\n iTunes Mac App App \r\n Apple… [+150 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ithome.com"
+},
+"author": null,
+"title": "已修复，苹果 App Store 等服务短暂中断：导致无法购买应用",
+"description": "IT之家 1 月 27 日消息，苹果公司系统状态报告今天发布更新，表示今天上午 7 点 29 分开始，App Store、Mac App Store、Apple Music 以及设备上的 AppleCare 服务出现中端情况。Apple Music - 已解决的服务中断<ul><li>今天 上午 7:29 - 上午 8:42\r\n</li><li>所有用户均曾受影响\r\n</li><li>用户在使用此服务时可能遇到过间歇性问题。\r\n</li></ul>App Store - 已解决的服务中断<ul><li>今天 上午…",
+"url": "https://www.ithome.com/0/747/537.htm",
+"urlToImage": null,
+"publishedAt": "2024-01-27T01:25:29Z",
+"content": "IT 1 27 7 29 App StoreMac App StoreApple Music AppleCare \r\nApple Music - \r\nApp Store - \r\n<ul><li> 7:29 - 8:42\r\n</li><li></li><li> iTunes Mac App App \r\n</li></ul>Mac App Store - \r\n<ul><li> 7:29 - 8:42… [+160 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Arigato-ipod.com"
+},
+"author": "Ygn",
+"title": "【レビュー】Apple Watch用 Black Unityスポーツバンド − ユニティブルーム",
+"description": "Apple Watch用バンド「Black Unityスポーツバンド – ユニティブルーム 」をレビューします。 赤、緑、黄色で花柄が描かれた、スポーツバンドの特別モデルです。 41mmケース用と45mmケース用の2サイ...\nThe post 【レビュー】Apple Watch用 Black Unityスポーツバンド − ユニティブルーム first appeared on アイアリ.",
+"url": "https://arigato-ipod.com/2024/01/review-apple-watch-black-unity-sport-band-unity-bloom.html",
+"urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2024/01/240127blackunitybloomband.jpg",
+"publishedAt": "2024-01-27T02:51:28Z",
+"content": "Apple Watch用バンド「Black Unityスポーツバンド – ユニティブルーム\n」をレビューします。\n赤、緑、黄色で花柄が描かれた、スポーツバンドの特別モデルです。\n41mmケース用と45mmケース用の2サイズがあります。\n\n\n▲ 2月の「黒人歴史月間」を記念した「Black Unity」バンドとしては、4代目に当たります。\n<ul>\n<li>2021：スポーツバンド</li>\n<l… [+2403 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Softantenna.com"
+},
+"author": "saadmin",
+"title": "Mozilla、AppleのEU限定の新ブラウザルールに「非常に失望している」",
+"description": "AppleはEUのデジタル市場法(DMA)に対応するため、iOS 17.4でiOSに対して大きな変更を行う予定です。EU圏ではアプリのサイドローディングや、代替アプリマーケットなどが利用可能になるのに加え、サードパーティ製ブラウザでは、We",
+"url": "https://softantenna.com/blog/mozilla-ios-browser-rules/",
+"urlToImage": "https://softantenna.com/blog/wp-content/uploads/2024/01/mozilla-firefox-banner-fixed-1.jpg",
+"publishedAt": "2024-01-27T02:35:28Z",
+"content": "AppleEU(DMA)iOS 17.4iOSEUWebKitFirefoxMozilla(MacRumors)\r\nMozillaDamiano DeMonteThe VergeBrowserEngineKitEU\r\nEUiPhoneiPadFirefox\r\nWe are still reviewing the technical details but are extremely disapp… [+371 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Minatokobe.com"
+},
+"author": "酔いどれ",
+"title": "SharePlayの拡大：iOS 17.4でHomePodとApple TVに音楽コントロールを追加",
+"description": "iOS 17.4とtvOS 17.4におけるSharePlayの新たな展望 Appleは、そのオペレーティングシステムの重要なアップデートにおいて、HomePodとApple TVへの音楽コントロール機能を拡張する予定です。これは、iOS 17.4とtvOS 17.4におけるSharePlay機能の顕著な拡張を示しています。 この動きは、FaceTimeおよびiMessageの一部として、ユーザーが様々なメディアやアプリを対話的に共有できるようにするSharePlay機能の注目すべき拡大です。 iOSにおけるSh…",
+"url": "https://minatokobe.com/wp/ios/ios-17/post-95290.html",
+"urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/01/Apple-Music.jpg",
+"publishedAt": "2024-01-27T00:27:00Z",
+"content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Fox News",
+"title": "What you should order at Wendy’s, dietitians reveal",
+"description": "Here's what nutrition experts suggest you reach for when you choose Wendy's.",
+"url": "https://nypost.com/2024/01/26/lifestyle/what-you-should-order-at-wendys-dietitians-reveal/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-1b9xbcgy4-1706303660219.jpg?quality=75&strip=all&1706285704&w=1024",
+"publishedAt": "2024-01-27T00:45:40Z",
+"content": "Headed to Wendys? \r\nYou might think mostly of double cheeseburgers and french fries, but its possible to eat smartly (and in moderation) when dining at this popular fast-food establishment.\r\nCooking … [+6191 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Fc2.com"
+},
+"author": "tarou2000",
+"title": "【2/4までセール】New Fire HD 10 タブレット - 10インチHD ディスプレイ 32GB ブラック (2023年発売)",
+"description": "【2/4までセール】New Fire HD 10 タブレット - 10インチHD ディスプレイ 32GB ブラック (2023年発売)  パソコン関連激安特価情報【ノートPC/タブレットPC】",
+"url": "http://ks4402.blog94.fc2.com/blog-entry-113653.html",
+"urlToImage": null,
+"publishedAt": "2024-01-27T03:00:00Z",
+"content": "19,980PC()\r\nAmazonFire10.11080pHD Apple iPad 10.9 (10)413253GB RAM85MPZoomMade for Amazon ()4,096OneNoteAlexaAlexaAlexa()()"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Post Editorial Board",
+"title": "The Knicks shining success is a feel-good moment when New York City needs it most",
+"description": "The New York Knicks added to their five-game winning streak when they dominated the Denver Nuggets 84-122 on Thursday.",
+"url": "https://nypost.com/2024/01/26/opinion/the-knicks-shining-success-is-a-feel-good-moment-when-new-york-city-needs-it-most/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/BRUSNON.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2024-01-27T00:34:11Z",
+"content": "Amid gloomy late-January weather, with Gotham facing multiple political problems and sports fans licking their wounds over disappointing Giants and Jets seasons, the Knicks are giving New Yorkers rea… [+1258 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Emerce.nl"
+},
+"author": "Redactie",
+"title": "EU maatregelen Apple gaan grotendeels aan de iPad voorbij",
+"description": "De maatregelen die Apple donderdag heeft aangekondigd om te voldoen aan de Europese wetgeving hebben vooral betrekking op de iPhone, niet op de iPad, zo blijkt uit een toelichting van het bedrijf.",
+"url": "https://www.emerce.nl/nieuws/eu-maatregelen-apple-gaan-grotendeels-ipad-voorbij",
+"urlToImage": "https://www.emerce.nl/content/uploads/2024/01/Scherm­afbeelding-2024-01-27-om-4.15.12 AM.jpg",
+"publishedAt": "2024-01-27T03:18:07Z",
+"content": "Nieuws -27 januari 2024 - 04:18De maatregelen die Apple donderdag heeft aangekondigd om te voldoen aan de Europese wetgeving hebben vooral betrekking op de iPhone, niet op de iPad, zo blijkt uit een … [+1110 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TOI Tech Desk",
+"title": "Spotify CEO calls Apple's changes in EU a 'farce', here's what Apple has to say",
+"description": "Apple announces changes to App Store for EU developers due to Digital Markets Act. Spotify CEO criticizes Apple for proposed fees, calling them extortion. Apple claims new rules benefit developers and offer choice.",
+"url": "https://timesofindia.indiatimes.com/gadgets-news/spotify-ceo-calls-apples-changes-in-eu-a-farce-heres-what-apple-has-to-say/articleshow/107178103.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-107178103,width-1070,height-580,imgsize-62434,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2024-01-27T02:58:58Z",
+"content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "theregister.com",
+"title": "Apple redecorates its iPhone prison to appease Europe",
+"description": "Analysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for the soul. The iPhone is a computer; you just can't use it as o…",
+"url": "https://biztoc.com/x/20ef0835a915201a",
+"urlToImage": "https://c.biztoc.com/p/20ef0835a915201a/s.webp",
+"publishedAt": "2024-01-27T02:00:12Z",
+"content": "Analysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for th… [+276 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "theregister.com",
+"title": "Apple redecorates its iPhone prison to appease Europe",
+"description": "Analysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for the soul. The iPhone is a computer; you just can't use it as o…",
+"url": "https://biztoc.com/x/9af26c0314959464",
+"urlToImage": "https://c.biztoc.com/p/9af26c0314959464/s.webp",
+"publishedAt": "2024-01-27T02:42:10Z",
+"content": "Analysis Apple co-founder Steve Jobs described the computer as a bicycle for the mind. But he failed to let that metaphor shape his greatest achievement, the iPhone, which has become a shackle for th… [+276 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TOI Tech Desk",
+"title": "Apple allows sideloading apps on iPhone: What it means for users, how it will work and more",
+"description": "Apple is enabling sideloading on iPhones in the European Union with the iOS 17.4 update. iPhone users can download apps from third-party app stores, violating Apple's guidelines. This change is due to the EU's Digital Markets Act, which categorizes Apple as a…",
+"url": "https://timesofindia.indiatimes.com/gadgets-news/apple-allows-sideloading-apps-on-iphone-what-it-means-for-users-how-it-will-work-and-more/articleshow/107174733.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-107174751,width-1070,height-580,imgsize-382968,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2024-01-27T02:31:25Z",
+"content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "cnbc.com",
+"title": "Tech layoffs balloon in January as Wall Street rally lifts Alphabet, Meta, Microsoft to records",
+"description": "The swarm of activity comes ahead of a barrage of tech earnings next week, when Alphabet, Amazon, Apple, Meta and Microsoft are all scheduled to report quarterly results. Investors lauded the cost-cutting measures that companies put in place last year in resp…",
+"url": "https://biztoc.com/x/9728cbec5114885b",
+"urlToImage": "https://c.biztoc.com/p/9728cbec5114885b/s.webp",
+"publishedAt": "2024-01-27T02:46:29Z",
+"content": "The swarm of activity comes ahead of a barrage of tech earnings next week, when Alphabet, Amazon, Apple, Meta and Microsoft are all scheduled to report quarterly results. Investors lauded the cost-cu… [+281 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nieuwsblad.be"
+},
+"author": "Max Dedulle",
+"title": "Apple plooit voor nieuwe Europese regels: “Een aardverschuiving die hen miljarden zal kosten”",
+"description": "Wie een iPhone of iPad heeft, is vanaf maart niet meer alleen op Apple’s eigen Store aangewezen om nieuwe apps te downloaden. Het is een van de aanpassingen die het bedrijf doorvoert om in orde te zijn met de ‘DMA’: een nieuwe reeks wetten waarmee Europa de m…",
+"url": "https://www.nieuwsblad.be/cnt/dmf20240126_96928913",
+"urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2024/01/26/3211a90c-1691-4552-8a8c-91701fceca20.jpg?maxheight=460&maxwidth=638",
+"publishedAt": "2024-01-27T02:00:00Z",
+"content": "Wie een iPhone of iPad heeft, is vanaf maart niet meer alleen op Apples eigen Store aangewezen om nieuwe apps te downloaden. Het is een van de aanpassingen die het bedrijf doorvoert om in orde te zij… [+3206 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "vulture.com",
+"title": "The Week Netflix Put the Smackdown on Its Rivals",
+"description": "Two years ago this month, Netflix warned investors that it saw growth slowing down during the first half of 2022 — and the result was nothing short of a Wall Street freakout. The streamer’s share price fell by nearly 20 percent, overnight, and this column pub…",
+"url": "https://biztoc.com/x/9bbb78c59cab68bc",
+"urlToImage": "https://c.biztoc.com/p/9bbb78c59cab68bc/og.webp",
+"publishedAt": "2024-01-27T01:28:12Z",
+"content": "Two years ago this month, Netflix warned investors that it saw growth slowing down during the first half of 2022 and the result was nothing short of a Wall Street freakout. The streamers share price … [+280 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "cnbc.com",
+"title": "I’ve never gotten as much feedback on any segment in my life",
+"description": "CNBC's Jim Cramer said he's never received more executive feedback on a \"Mad Money\" segment than he has for his Thursday night commentary in which he booted Tesla from the \"Magnificent Seven\" after the electric vehicle maker's disappointing earnings report an…",
+"url": "https://biztoc.com/x/46db2c472dc426b6",
+"urlToImage": "https://c.biztoc.com/p/46db2c472dc426b6/og.webp",
+"publishedAt": "2024-01-27T00:58:09Z",
+"content": "CNBC's Jim Cramer said he's never received more executive feedback on a \"Mad Money\" segment than he has for his Thursday night commentary in which he booted Tesla from the \"Magnificent Seven\" after t… [+283 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "What Warren Buffett thinks about AI and investing",
+"description": "The growth potential of artificial intelligence has investors excited, bidding up the stocks of AI leaders Nvidia, Microsoft, Alphabet and others throughout 2023 and into 2024. But what does arguably the world’s greatest investor Warren Buffett think about AI…",
+"url": "https://biztoc.com/x/3473ff91c417a0b9",
+"urlToImage": "https://c.biztoc.com/p/3473ff91c417a0b9/s.webp",
+"publishedAt": "2024-01-27T00:12:18Z",
+"content": "The growth potential of artificial intelligence has investors excited, bidding up the stocks of AI leaders Nvidia, Microsoft, Alphabet and others throughout 2023 and into 2024. But what does arguably… [+283 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "TOI Tech Desk",
+"title": "This popular watch brand is exiting the smartwatch business, here's why",
+"description": "Fossil Group is exiting the smartwatch business, redirecting resources to traditional watches and accessories. The decision reflects the competitive landscape dominated by Apple and Samsung, the limitations of Wear OS, and the difficulty of maintaining a prem…",
+"url": "https://timesofindia.indiatimes.com/gadgets-news/this-popular-watch-brand-is-exiting-the-smartwatch-business-heres-why/articleshow/107178208.cms",
+"urlToImage": "https://static.toiimg.com/thumb/msid-107178208,width-1070,height-580,imgsize-324534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+"publishedAt": "2024-01-27T03:11:29Z",
+"content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "looper.com",
+"title": "Fountain Of Youth: Cast, Director, And More Details",
+"description": "Learn More Fountain Of Youth: Cast, Director, And More Details Guy Ritchie is one of those directors who tends to make headlines any time he's working on a new project. The British filmmaker began his career crafting cult-hit crime films like \"Lock, Stock and…",
+"url": "https://biztoc.com/x/79a1dbc9e59b403e",
+"urlToImage": "https://c.biztoc.com/p/79a1dbc9e59b403e/s.webp",
+"publishedAt": "2024-01-27T03:16:08Z",
+"content": "Learn More Fountain Of Youth: Cast, Director, And More Details Guy Ritchie is one of those directors who tends to make headlines any time he's working on a new project. The British filmmaker began hi… [+328 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Spotify says Apple's plan to comply with EU regulation 'farce'",
+"description": "Spotify said on Friday that Apple's new plan to comply with the European Union's Digital Markets Act (DMA) is \"a complete and total farce.\" From early March, developers will be able to offer alternative app stores on iPhones and opt out of using Apple's in-ap…",
+"url": "https://biztoc.com/x/510c8f6a9bf2ed7a",
+"urlToImage": "https://c.biztoc.com/p/510c8f6a9bf2ed7a/s.webp",
+"publishedAt": "2024-01-27T00:12:20Z",
+"content": "Spotify said on Friday that Apple's new plan to comply with the European Union's Digital Markets Act (DMA) is \"a complete and total farce.\"From early March, developers will be able to offer alternati… [+264 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Reuters",
+"title": "Spotify says Apple's plan to comply with EU regulation 'farce'",
+"description": "From early March, developers will be able to offer alternative app stores on iPhones and opt out of using Apple's in-app payment system, which charges commissions of up to 30%, under the bloc's new rules.",
+"url": "https://economictimes.indiatimes.com/tech/technology/spotify-says-apples-plan-to-comply-with-eu-regulation-farce/articleshow/107178280.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-107178293,width-1200,height-630,imgsize-110032,overlay-ettech/photo.jpg",
+"publishedAt": "2024-01-27T03:15:19Z",
+"content": "Spotify said on Friday that Apple's new plan to comply with the European Union's Digital Markets Act (DMA) is \"a complete and total farce.\"From early March, developers will be able to offer alternati… [+1434 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Nando Sommerfeldt, Holger Zschäpitz",
+"title": "Gnadenlos erfolgshungrig – die Entschlüsselung des Korea-Codes",
+"description": "In der Samstagsfolge von „Alles auf Aktien“ reden wir über eine Region, die in Sachen Leistungsbereitschaft und Dynamik weltweit Vorreiter ist: Südkorea. Unser Gast berichtet von einem gnadenlosen Bildungssystem, erfolgshungrigen Menschen, wie KI im Alltag wi…",
+"url": "https://www.welt.de/podcasts/alles-auf-aktien/article249740588/Boersen-Podcast-KI-K-Pop-und-Chaebols-die-Entschluesselung-des-Korea-Codes.html",
+"urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile246304624/7571353877-ci16x9-w1200/Zschae-Nando-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-zschaepitz-sommerfeld.jpg",
+"publishedAt": "2024-01-27T03:59:45Z",
+"content": "Während es sich viele Deutsche mit der Vier-Tage-Woche gemütlich machen wollen, legt Südkorea ein ganz anderes Tempo an den Tag. Unser Gast erzählt von ganz ähnlichen Problemen und Herausforderungen … [+395 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "MSN.com",
+"title": "Apple Gives Employees Cutthroat Ultimatum: Move from California to Texas or be Terminated",
+"description": "Apple is undoubtedly one of the largest tech companies in the world. And with almost 37,000 of its 161,000 total employees working in California and its headquarters based in Silicon Valley, the tech giant had long been synonymous with the Golden State. Howev…",
+"url": "https://freerepublic.com/focus/f-news/4213120/posts",
+"urlToImage": null,
+"publishedAt": "2024-01-27T01:56:30Z",
+"content": "Skip to comments.\r\nApple Gives Employees Cutthroat Ultimatum: Move from California to Texas or be TerminatedMSN.com ^\r\n | Lauren Fokas\r\nPosted on 01/26/2024 5:56:30 PM PST by cba123\r\nApple is undoubt… [+1965 chars]"
+},
+{
+"source": {
+"id": "la-nacion",
+"name": "La Nacion"
+},
+"author": null,
+"title": "Avanzada holandesa: la respuesta europea a Silicon Valley",
+"description": "La firma neerlandesa ASML ocupa un lugar clave en la cadena de suministros para la fabricación global de chips y desafía la idea de que el viejo continente es incapaz de desarrollar una plataforma digital exitosa",
+"url": "https://www.lanacion.com.ar/economia/negocios/avanzada-holandesa-la-respuesta-europea-a-silicon-valley-nid27012024/",
+"urlToImage": "https://resizer.glanacion.com/resizer/v2/el-valor-de-la-compania-holandesa-asml-se-ha-ZY4H7O3DNJEKNHZS4SEPOJW7GE.jpg?auth=609d0ef712574bdfa2d765a367e7b4fe99fa69e6638e576745a52808e64717fa&width=768&quality=70&smart=false",
+"publishedAt": "2024-01-27T03:48:00Z",
+"content": "Diez veces por segundo, un objeto con forma de caja de pizza gruesa y que sostiene una oblea de silicio despega tres veces más rápido que un cohete tripulado. Durante unos milisegundos se desplaza a … [+12145 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Idownloadblog.com"
+},
+"author": "Anthony Bouchard",
+"title": "TrollStore v2.0.12 released with a feature to open an app with JIT, among other changes",
+"description": "The TrollStore perma-signing utility received an update to version 2.0.12 that incorporates improvements to JIT support, as well as bug fixes.",
+"url": "https://www.idownloadblog.com/2024/01/26/trollstore-v2-0-12-released-with-a-feature-to-open-an-app-with-jit-among-other-changes/",
+"urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2023/11/TrollStore-Banner.jpg",
+"publishedAt": "2024-01-27T02:17:39Z",
+"content": "TrollStore, a perma-signing utility for iPhones and iPads that harnesses a CoreTrust exploit in iOS &amp; iPadOS versions 14.0-16.6.1, 16.7 RC, and 17.0 to permanently install any .ipa file that you … [+1927 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "STERN.de"
+},
+"author": "STERN.de",
+"title": "Apps: Spotify wettert gegen Apples App-Store-Pläne: \"Erpressung\"",
+"description": "Wegen neuer EU-Regeln stellt Apple seinen App-Store um. Hinzukommt eine jährliche App-Gebühr - für beliebte Apps könnte es teuer werden. Spotify spricht von Erpressung.",
+"url": "https://www.stern.de/wirtschaft/news/apps--spotify-wettert-gegen-apples-app-store-plaene---erpressung--34404290.html",
+"urlToImage": "https://image.stern.de/34404292/t/Bd/v1/w1440/r1.7778/-/27--urnnewsmldpacom2009010124012799770397v3w800h600l1280t414r2560b1312jpeg---8ac8d7ef51d556fb.jpg",
+"publishedAt": "2024-01-27T03:01:13Z",
+"content": "Wegen neuer EU-Regeln stellt Apple seinen App-Store um. Hinzukommt eine jährliche App-Gebühr - für beliebte Apps könnte es teuer werden. Spotify spricht von Erpressung.\r\nSpotify-Chef Daniel Ek hat Ap… [+2738 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Sanji Feng",
+"title": "Windows 版 Chrome 將原生支援 Arm64",
+"description": "Windows 版 Chrome 將原生支援 Arm64\r\n在 Windows 上最新的 Canary 版 Chrome 中，Google 加入了對 Arm64 的原生支援。這意味著基於 Arm64 的 PC 不用依賴模擬模式即可運行該瀏覽器，根據 X 上用家的回饋，即便是搭載 7 年前 Snapdragon 835 晶片的電腦都能夠正常運行。\r\n實際上，除了最主流的 Chrome 以外，Google 早在很久以前便在 Chromium、Linux 上實現了對 Arm64 的支援（iOS 和 Mac 就更不用說了…",
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f884d0fd-f1a0-475d-a050-8993589f1894",
+"urlToImage": null,
+"publishedAt": "2024-01-27T01:00:40Z",
+"content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Everyeye.it"
+},
+"author": "Gianmarco Cotroneo",
+"title": "The Lost Bus, Matthew McConaughey sarà un autista di bus nel film Blumhouse",
+"description": "La star di \"Interstellar\" e \"Dallas Buyers Club\" tornerà protagonista in un film sul tragico incendio di Camp Creek Road del 2018.Rappresentare la realtà: dall'alba dei tempi, con l'uscita degli operai dall'officina o il famigerato treno dei fratelli Lumière,…",
+"url": "https://cinema.everyeye.it/notizie/the-lost-bus-matthew-mcconaughey-autista-bus-film-blumhouse-696216.html",
+"urlToImage": "https://images.everyeye.it/img-notizie/the-lost-bus-matthew-mcconaughey-autista-bus-film-blumhouse-v3-696216.jpg",
+"publishedAt": "2024-01-27T00:32:00Z",
+"content": "Rappresentare la realtà: dall'alba dei tempi, con l'uscita degli operai dall'officina o il famigerato treno dei fratelli Lumière, il cinema è nato per questo. La settima arte è senza dubbio lo strume… [+2529 chars]"
+},
+{
+"source": {
+"id": "la-nacion",
+"name": "La Nacion"
+},
+"author": null,
+"title": "¿Cómo escribir la c cedilla?",
+"description": "Se trata de un símbolo olvidado por el español, pero que resulta necesario a la hora de escribir en otras lenguas románticas como el francés, el portugués o el catalán",
+"url": "https://www.lanacion.com.ar/lifestyle/como-escribir-la-c-cedilla-nid27012024/",
+"urlToImage": "https://resizer.glanacion.com/resizer/v2/las-diferentes-formas-de-escribir-la-c-3BJYT4XZKJC4LJFOF2LCSWBZPU.jpg?auth=6eab9ab436f4cf38a299c401d8b2ac9af859d92fe66c5fe9e5149ee01cc3707d&width=768&quality=70&smart=false",
+"publishedAt": "2024-01-27T03:01:00Z",
+"content": "La cedilla es un signo ortográfico que se encuentra conformado por una c y vírgula, nombre que se le atribuye a su parte inferior. Se trata de una consonante que forma parte de alfabetos actuales de … [+1923 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Blognone.com"
+},
+"author": "arjin",
+"title": "Mozilla โจมตีนโยบายใหม่แอปเปิลตามกฎหมาย DMA ของ EU บอกทำให้แข่งขันยากกว่าเดิม",
+"description": "Mozilla ออกมาแสดงความเห็นจากนโยบายใหม่ของแอปเปิล ที่ปฏิบัติตามกฎหมาย DMA ของสหภาพยุโรป ซึ่งเปิดให้ผู้ใช้งานสามารถเลือกใช้เบราว์เซอร์อื่นเป็นค่าเริ่มต้นง่ายขึ้น และผู้พัฒนาก็ไม่ต้องใช้ WebKit เป็นเอ็นจินได้ด้วย ทั้งหมดอาจฟังดูเป็นประโยชน์สำหรับผู้พัฒนาเบราว์เซ…",
+"url": "https://www.blognone.com/node/137899",
+"urlToImage": "https://www.blognone.com/sites/default/files/externals/b0c403826370ada56a129b76863c8852.jpg",
+"publishedAt": "2024-01-27T03:40:56Z",
+"content": "Mozilla DMA WebKit 3rd Party Mozilla \r\nDamiano DeMonte Mozilla BrowserEngineKit EU Firefox EU EU WebKit \r\nMozilla Safari Mozilla Epic GamesSpotify\r\n: The Verge"
+},
+{
+"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "msmash",
+"title": "Apple's Large Language Model Shows Up in New iOS Code",
+"description": "An anonymous reader shares a report: Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that Apple is continuing to work on a new version of Siri powered…",
+"url": "https://apple.slashdot.org/story/24/01/26/2344206/apples-large-language-model-shows-up-in-new-ios-code",
+"urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+"publishedAt": "2024-01-27T00:32:00Z",
+"content": "Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that Apple is continuing to work on a new … [+1353 chars]"
+},
+{
+"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Kalhan Rosenblatt and Diana Dasrath",
+"title": "Britney Spears’ 2011 ‘Selfish’ surpasses Justin Timberlake’s new song with same name on iTunes",
+"description": "Britney Spears' fervent fan base is being credited online with helping the singer's 2011 song \"Selfish\" climb above Justin Timberlake's new release of the same name on the iTunes charts.",
+"url": "https://www.nbcnews.com/pop-culture/britney-spears-selfish-song-itunes-justin-timberlake-rcna135952",
+"urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231017-britney-spears-justin-timberlake-ew-1216p-5c211a.jpg",
+"publishedAt": "2024-01-27T00:01:04Z",
+"content": "Britney Spears fervent fan base is being credited online with helping the singers 2011 song Selfish climb above Justin Timberlakes new release of the same name on the iTunes charts.\r\nTimberlake, who … [+2298 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Thairath.co.th"
+},
+"author": "Thairath",
+"title": "Gartner เผยยอดขายพีซีทั่วโลกตลอดปี 2023 ลดลง 14.8 เปอร์เซ็นต์",
+"description": "ในปี 2023 ที่เพิ่งผ่านพ้นไปเป็นปีที่ภาพรวมของตลาดพีซีไม่ค่อยดีนักลดลงกว่า 14.8 เปอร์เซ็นต์ แต่ไตรมาสสุดท้ายดีขึ้นเล็กน้อยที่ 0.3 เปอร์เซ็นต์",
+"url": "https://www.thairath.co.th/news/tech/2758382",
+"urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5LFXA28XhbDcXJOorRG0ADGfwsyuvregCkhD3TTPsyDORzUGw72.jpg",
+"publishedAt": "2024-01-27T03:23:00Z",
+"content": "(Personal Computer: PC) 4 2023 63.3 0.3 4 2022 241.8 14.8 2022 250 230 2006\r\n 4 2023  \r\n 2024 \r\n 4 2023 (Lenovo) 25.6 (HP) 22 (Dell) 3 15.8 (Apple) 10 (Asus) 5 7 \r\n 6 4 2023 , , \r\n 3 2021  \r\n 2023 14… [+33 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "feedfeeder",
+"title": "Spotify CEO slams Apple's App Store changes; Apple fires back [U] - 9to5Mac",
+"description": "Spotify CEO slams Apple's App Store changes; Apple fires back [U]9to5Mac Apple's Proposed Changes Reject the Goals of the DMA — SpotifyFor the Record Here's the new Apple tax every developer is going to hateThe Verge Apple announces changes to iOS, Safari, an…",
+"url": "https://slashdot.org/firehose.pl?op=view&amp;id=172875698",
+"urlToImage": null,
+"publishedAt": "2024-01-27T03:32:57Z",
+"content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Variety"
+},
+"author": "Addie Morfoot",
+"title": "Sundance Offers a Glimmer of Hope for the Struggling Documentary Market: ‘We’re No Longer in a DOA Situation’",
+"description": "The 40th edition of Sundance proved that despite corporate consolidation, there is still a market for independently made documentaries. While there haven’t been many sales so far, there has been strong buyer interest in two celeb-focused docs — “Super/Man: Th…",
+"url": "https://variety.com/2024/film/news/sundance-struggling-documentary-market-superman-will-harper-1235887798/",
+"urlToImage": "https://variety.com/wp-content/uploads/2024/01/MCDSUPE_EC178.jpg?crop=0px%2C166px%2C2700px%2C1519px&resize=1000%2C563",
+"publishedAt": "2024-01-27T00:06:32Z",
+"content": "The 40th edition of Sundance proved that despite corporate consolidation, there is still a market for independently made documentaries. While there haven’t been many sales so far, there has been stro… [+5698 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Bravo"
+},
+"author": "Jenny Berg",
+"title": "Gia Giudice Exercise Routine: Details and Photo",
+"description": "The Real Housewives of New Jersey's Gia Giudice shares a look at her early morning workout. See the pic.",
+"url": "https://www.bravotv.com/the-daily-dish/gia-giudice-exercise-routine-details-and-photo",
+"urlToImage": "https://www.bravotv.com/sites/bravo/files/2023/11/gia-giudice.jpg",
+"publishedAt": "2024-01-27T01:24:14Z",
+"content": "In Teresa Giudice's family, the apple doesn't fall far from the tree or, shall we say, from the gym? The Real Housewives of New Jersey mom is a major fitness buff, and her daughter Gia Giudice is sim… [+2346 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Unwire.hk"
+},
+"author": "唐美鳳",
+"title": "台積電 2nm 製程技術晶片 2025 年投產 Apple 有望率先採用",
+"description": "台灣網站 DigiTimes 日前報導指，Apple 有機會成為首家使用台積電即將推出 2nm 製程晶片的公司。作為全球主要的晶片製造商，台積電預計將於 2025 年下半年開始投產 2nm 製程晶片。新技術容許更小尺寸的晶體管集成於單一處理器，從而提升性能和降低電耗。\nThe post 台積電 2nm 製程技術晶片 2025 年投產 Apple 有望率先採用 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+"url": "https://unwire.hk/2024/01/27/apple-to-grab-first-dibs-on-tsmcs-2nm-technology/fun-tech/",
+"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/01/03-25-694x390.png",
+"publishedAt": "2024-01-27T02:00:05Z",
+"content": "DigiTimes Apple 2nm 2025 2nm \r\n Apple iPhone 15 Pro A17 Pro Mac M3 3nm Apple 2nm (GAAFET) FinFET GAAFET \r\nApple 3nm 1.4nm 2027 Apple \r\ngizmochina\r\n:<li>iOS 17.3 iPhone + Apple </li> <li> Apple Vision… [+55 chars]"
+}
+]
+}
